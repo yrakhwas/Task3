@@ -1,0 +1,15 @@
+.var {
+    color: brown;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+mark {
+    background-color: rgb(245, 153, 153);
+    padding: 0 3px;
+}
+
+.content {
+    background-color: rgb(242, 242, 242);
+    padding: 5px;
+}
